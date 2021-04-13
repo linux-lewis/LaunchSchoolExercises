@@ -1,0 +1,11 @@
+Values that count as falsy:
+False
+null
+undefined
+0
+NaN
+'' or ""
+-0
+0n
+
+All other values are truthy
