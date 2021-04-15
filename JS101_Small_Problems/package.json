@@ -1,0 +1,23 @@
+{
+  "name": "JS101_Programming_Foundations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linux-lewis/JS101_Programming_Foundations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linux-lewis/JS101_Programming_Foundations/issues"
+  },
+  "homepage": "https://github.com/linux-lewis/JS101_Programming_Foundations#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
